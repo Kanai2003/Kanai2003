@@ -3,7 +3,7 @@ Welcome🙏
 
 
 
-<h1 align="center" >Hi, I'm <a href="https://twitter.com/kanailal_manna" target="_blank"> Kanailal Manna </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/feed/" target="_blank"> Kanailal Manna </a></h1>
 
 <!-- [![Image of https://github.com/driptanil/Github-profile-views-counter](https://github.com/driptanil/Github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/driptanil/Github-profile-views-counter) -->
 
