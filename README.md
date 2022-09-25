@@ -63,6 +63,8 @@ I am learning Machine Learning, data science and app development.
 <a href="https://twitter.com/kanailal_manna" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:kanailalmanna2003@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/K_A_N_A_I"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/feed/"><img alt=" Linkedin" src="https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&alt=Linkedin"></a>
+
 <!-- <a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> -->
 <!-- <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </a>
