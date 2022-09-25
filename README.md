@@ -1,5 +1,5 @@
-# Kanai.md
-Welcome🙏
+
+# Welcome🙏
 
 
 
@@ -86,7 +86,7 @@ I am learning Machine Learning, data science and app development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanailalmanna&theme=dark" alt="" /></p>
   </div>
 
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kanailalmanna&theme=xcode)](https://git.io/kanailalmanna)
+ [![Kanai's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kanailalmanna&theme=xcode)](https://git.io/kanailalmanna)
    
    
 
