@@ -11,12 +11,12 @@ A bit about Myself, I am <b>Kanai</b> pursuing my <b>B.Tech</b> in <b>Computer S
 
 <h3 align="center">  </h3>
 
-<!-- <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3> -->
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanailalmanna" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
-<!--    
-I have learned web-development and having knowledge of HTML,CSS.  -->
+   
+I have learned web-development and having knowledge of HTML,CSS. 
 <h2>Known Languages: </h2>
 
 <p align="center"> 
@@ -52,7 +52,7 @@ I have learned web-development and having knowledge of HTML,CSS.  -->
 </p>
 
 
-I am learning Machine Learning, data science and app development.
+I am learning Machine Learning, data science and app development and full stack web-development.
 
 
 
