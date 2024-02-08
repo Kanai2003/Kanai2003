@@ -45,14 +45,14 @@
 ## 🤖 Data Science (AI & ML)
 <p align="center">
   <img alt="Linear Regression" src="https://img.shields.io/badge/Linear%20Regression-%2300599C.svg?&style=for-the-badge" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=for-the-badge" />
-  <img alt="CNN" src="https://img.shields.io/badge/CNN-%23FF6F61.svg?&style=for-the-badge" />
-  <img alt="RNN" src="https://img.shields.io/badge/RNN-%23FFBB00.svg?&style=for-the-badge" />
+<!--   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=for-the-badge" /> -->
+<!--   <img alt="CNN" src="https://img.shields.io/badge/CNN-%23FF6F61.svg?&style=for-the-badge" /> -->
+<!--   <img alt="RNN" src="https://img.shields.io/badge/RNN-%23FFBB00.svg?&style=for-the-badge" /> -->
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23005C8F.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231489D0.svg?&style=for-the-badge" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<!--   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" /> -->
 </p>
 
 
@@ -71,7 +71,7 @@
  
 
 
-I am learning Data Science(AI&ML) and  full stack MERN web-development.
+I am learning   full-stack MERN web development and Data Science(AI&ML).
 
 
 
