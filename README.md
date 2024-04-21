@@ -4,14 +4,14 @@
 
 
 <h1 align="center" >Hi, I'm  Kanailal Manna </h1>
-<!-- 
-[![Image of https://github.com/kanailalmanna/Github-profile-views-counter](https://github.com/kanailalmanna/Github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kanailalmanna/Github-profile-views-counter) -->
+<!--
+[![Image of https://github.com/kanai2003/Github-profile-views-counter](https://github.com/kanai2003/Github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kanai2003/Github-profile-views-counter) -->
 
-👋 Greetings, I'm <b>Kanai</b> – a <b>Computer Science & Engineering B.Tech student</b> with a passion for crafting exceptional <b>Web Dev</b> experiences using the <b>MERN stack</b>. 🌐 As I journey into the realms of <b>Artificial Intelligence🧠 and Machine Learning💡</b>, I'm continually enchanted by the possibilities they offer. Join me in this ever-evolving world of tech as we innovate, learn, and shape the future together. 💡✨
+👋 Greetings, I'm <b>Kanai</b> – a <b>Computer Science & Engineering B.Tech student</b> with a passion for crafting exceptional <b>Web Dev</b> experiences using the <b>MERN stack + Next.js</b>. 🌐 As I journey into the realms of <b>Artificial Intelligence🧠 and Machine Learning💡</b>, I'm continually enchanted by the possibilities they offer. Join me in this ever-evolving world of tech as we innovate, learn, and shape the future together. 💡✨
 
 <h3 align="center">  </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanailalmanna" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanai2003" /> </p></h3>
    <div align="center">
 
 
@@ -34,11 +34,13 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img alt="Next.Js" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&Next=react&logoColor=61DAFB" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   
 </p>
 
 
@@ -95,19 +97,19 @@ I am learning   full-stack MERN web development and Data Science(AI&ML).
 <table>
   <tr>
 
-   <!--
-<td><img src="https://github-readme-stats.vercel.app/api?username=kanailalmanna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanailalmanna&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=kanai2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanai2003&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanailalmanna&theme=dark" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanai2003&theme=dark" alt="" /></p>
   </div>
 
- [![Kanai's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kanailalmanna&theme=xcode)](https://git.io/kanailalmanna)
+ [![Kanai's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kanai2003&theme=xcode)](https://git.io/kanai2003)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/kanailalmanna.svg?style=social&label=Follow)](https://github.com/kanailalmanna?tab=followers)
--->
+[![GitHub followers](https://img.shields.io/github/followers/kanai2003.svg?style=social&label=Follow)](https://github.com/kanai2003?tab=followers)
+
