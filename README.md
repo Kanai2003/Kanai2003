@@ -6,12 +6,12 @@
 <div align="center" > 
    <h1>Hi, I'm  Kanailal Manna </h1>
    <br> 
-   <P> I am full-stack (MERN + Next.js) web developer. And exploring/learning many things like AL&ML, LLM, WEB3. </P>
+   <h4> I am full-stack (MERN + Next.js) web developer. And exploring/learning many things like AL&ML, LLM, WEB3. </h4>
 </div>
 
 <!-- [![Image of https://github.com/kanai2003/Github-profile-views-counter](https://github.com/kanai2003/Github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kanai2003/Github-profile-views-counter) -->
 
-👋 Greetings, I'm <b>Kanai</b> – a <b>Computer Science & Engineering B.Tech student</b> with a passion for crafting exceptional <b>Web Dev</b> experiences using the <b>MERN stack + Next.js</b>. 🌐 As I journey into the realms of <b>Artificial Intelligence🧠 and Machine Learning💡</b>, I'm continually enchanted by the possibilities they offer. Join me in this ever-evolving world of tech as we innovate, learn, and shape the future together. 💡✨
+<p>👋 Greetings, I'm <b>Kanai</b> – a <b>Computer Science & Engineering B.Tech student</b> with a passion for crafting exceptional <b>Web Dev</b> experiences using the <b>MERN stack + Next.js</b>. Join me in this ever-evolving world of tech as we innovate, learn, and shape the future together. 💡✨</p>
 
 <h3 align="center">  </h3>
 
