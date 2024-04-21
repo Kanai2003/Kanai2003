@@ -50,7 +50,6 @@
 ## 🤖 Data Science (AI & ML)
 <p align="center">
   <img alt="Linear Regression" src="https://img.shields.io/badge/Linear%20Regression-%2300599C.svg?&style=for-the-badge" />
-<!--   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=for-the-badge" /> -->
 <!--   <img alt="CNN" src="https://img.shields.io/badge/CNN-%23FF6F61.svg?&style=for-the-badge" /> -->
 <!--   <img alt="RNN" src="https://img.shields.io/badge/RNN-%23FFBB00.svg?&style=for-the-badge" /> -->
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
@@ -69,6 +68,7 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=for-the-badge" />
   <img alt="Hacktoberfest Contributor" src="https://img.shields.io/badge/Hacktoberfest%20Contributor-%23005AF0.svg?&style=for-the-badge" />
 </p>
 
@@ -76,7 +76,7 @@
  
 
 
-I am learning   full-stack MERN web development and Data Science(AI&ML).
+I am full-stack (MERN + Next.js) web developer. And exploring/learning many things like AL&ML, LLM, WEB3.
 
 
 
