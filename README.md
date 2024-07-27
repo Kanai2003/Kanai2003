@@ -26,6 +26,8 @@
 
 ## 💻 Programming Skills
 <p align="center"> 
+   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-e6e600?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00ccff?style=for-the-badge&logo=typescript&logoColor=blue" /></a>
   <a href="https://www.oracle.com/java/"><img alt="Java" src="https://img.shields.io/badge/Java-d57c00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></a>
@@ -34,9 +36,8 @@
 
 ## 🌐 Web Development Skills
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%230073e6)" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -46,7 +47,8 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
    
 </p>
 
@@ -77,12 +79,6 @@
 </p>
 
 
- 
-
-
-
-
-
 
  <h1 align="center">🖇️Let's Get Connected🤝</h1>
 
@@ -90,17 +86,15 @@
 
 <a href="https://twitter.com/KManna16" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:kanailalmanna2003@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://web.telegram.org/k/"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://leetcode.com/u/Kanai2003/"><img src="https://img.shields.io/badge/Leetcode-%2300acee.svg?&style=for-the-badge&logo=Leetcode&logoColor=yellow&alt=Leetcode"></a>
 <a href="https://www.linkedin.com/in/kanailalmanna/"><img alt=" Linkedin" src="https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&alt=Linkedin"></a>
 
-<!-- <a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> -->
-<!-- <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-</a>
 
    
    
 </div>
-   
+
+ <h1 align="center">💻 Activity 💻</h1>
 <table>
   <tr>
 
@@ -114,9 +108,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanai2003&theme=dark" alt="" /></p>
   </div>
 
- [![Kanai's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kanai2003&theme=xcode)](https://git.io/kanai2003)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanai2003&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
    
-   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kanai2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/kanai2003.svg?style=social&label=Follow)](https://github.com/kanai2003?tab=followers)
+
+
 
