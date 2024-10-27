@@ -12,6 +12,12 @@
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanai2003" /> </p></h3>
 
+<h1 align="center">🏆 GitHub Trophies 🏆</h1>
+
+![](https://github-profile-trophy.vercel.app/?username=kanai2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 <h1 align="center">💼 Technical Skills 🛠</h1>
 
 ### 💻 Programming Skills
@@ -86,9 +92,6 @@
 
 </div>
 
-<h1 align="center">🏆 GitHub Trophies 🏆</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=kanai2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
  <h1 align="center">💻 Activity 💻</h1>
  <div align="center">
