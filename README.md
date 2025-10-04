@@ -3,10 +3,10 @@
 <div align="center"> 
    <h1>Hi, I'm Kanailal Manna 👨‍💻</h1>
    <br> 
-   <h4>A full-stack developer (MERN + Next.js) crafting scalable web apps and exploring the latest in AI/ML, LLMs, DevOps, and Web3 🚀</h4>
+   <h4>A full-stack developer (MERN + Next.js) crafting scalable web apps and exploring the latest in GenAI, AI/ML, LLMs, DevOps, and Web3 🚀</h4>
 </div>
 
-<p>👋 Hey there! I'm <b>Kanai</b>, a <b>Computer Science & Engineering graduate (B.Tech)</b> and passionate full-stack engineer. I work mainly with the <b>MERN stack + Next.js</b>, and I’m also well-versed in <b>DevOps tools like Docker, CI/CD, GitHub Actions</b> and cloud platforms like <b>AWS</b>. I'm currently expanding my knowledge in <b>Kubernetes</b>, <b>Zustand</b>, and large language models. Let’s innovate and grow together! 🌱</p>
+<p>👋 Hey there! I'm <b>Kanai</b>, a <b>Computer Science & Engineering graduate (B.Tech)</b> and passionate full-stack engineer. I work mainly with the <b>MERN stack + Next.js</b>, and I’m also well-versed in <b>DevOps tools like Docker, CI/CD, GitHub Actions</b> and cloud platforms like <b>AWS</b>. I'm currently expanding my knowledge in <b>Kubernetes</b>, <b>GenAI</b>, and large language models. Let’s innovate and grow together! 🌱</p>
 
 <h3><p align="center"><img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanai2003" /></p></h3>
 
