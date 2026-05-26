@@ -1,117 +1,177 @@
-# Welcome 🙏
-
-<div align="center"> 
-   <h1>Hi, I'm Kanailal Manna 👨‍💻</h1>
-   <br> 
-   <h4>A full-stack developer (MERN + Next.js) crafting scalable web apps and exploring the latest in GenAI, AI/ML, LLMs, DevOps, and Web3 🚀</h4>
-</div>
-
-<p>👋 Hey there! I'm <b>Kanai</b>, a <b>Computer Science & Engineering graduate (B.Tech)</b> and passionate full-stack engineer. I work mainly with the <b>MERN stack + Next.js</b>, and I’m also well-versed in <b>DevOps tools like Docker, CI/CD, GitHub Actions</b> and cloud platforms like <b>AWS</b>. I'm currently expanding my knowledge in <b>Kubernetes</b>, <b>GenAI</b>, and large language models. Let’s innovate and grow together! 🌱</p>
-
-<h3><p align="center"><img src="https://komarev.com/ghpvc/?username=kanailalmanna&label=Profile%20views&color=6805D3&style=flat" alt="kanai2003" /></p></h3>
-
----
-
-<h1 align="center">🏆 GitHub Trophies 🏆</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=kanai2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-<h1 align="center">💼 Technical Skills 🛠</h1>
-
-### 💻 Programming Languages
-
-<p align="center"> 
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-e6e600?style=for-the-badge&logo=javascript&logoColor=white" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00ccff?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-   <img alt="Java" src="https://img.shields.io/badge/Java-d57c00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?&style=for-the-badge&logo=MUI&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
-</p>
-
-### ☁️ DevOps, Cloud & CI/CD
-
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-%23E24329.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### 📊 Data Science & ML
-
-<p align="center">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23005C8F.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231489D0.svg?&style=for-the-badge" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=for-the-badge" />
-  <img alt="Hacktoberfest" src="https://img.shields.io/badge/Hacktoberfest%20Contributor-%23005AF0.svg?&style=for-the-badge" />
-</p>
-
----
-
-<h1 align="center">🖇️ Let's Connect 🤝</h1>
+# 👋 Hey, I'm Kanailal Manna
 
 <div align="center">
 
-<a href="mailto:kanailalmanna2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kanailalmanna/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-<a href="https://twitter.com/KManna16" target="_blank"><img src="https://img.shields.io/badge/x-000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/hustlers03" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Kanai2003/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-4f4f4d.svg?&style=for-the-badge&logo=Leetcode&logoColor=yellow" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7A7ADB&center=true&vCenter=true&width=850&lines=Next.js+Frontend+Developer;Python+%2B+FastAPI+Backend+Developer;Building+AI+Agents+with+LangChain+%26+LangGraph;Learning+System+Design+%26+Scalable+Architecture;Always+Building+%26+Learning+🚀" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kanai2003&label=Profile%20Views&color=7A7ADB&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 ---
 
-<h1 align="center">💻 GitHub Activity 💻</h1>
+## 🚀 About Me
+
+💻 Full-Stack Developer focused on **Next.js Frontend** & **Python FastAPI Backend**  
+🤖 Building **AI Agents & GenAI Applications** using **LangChain** and **LangGraph**  
+⚡ Exploring **LLMs, RAG Pipelines, AI Workflows & Agentic Systems**  
+🏗️ Currently learning **System Design** and scalable backend architecture  
+☁️ Interested in **Cloud, DevOps, Docker, Kubernetes & AWS**  
+🌱 Passionate about building modern, scalable, and AI-powered applications
+
+---
+
+# 🧠 Current Focus
+
+```txt
+Frontend      → Next.js, React, Tailwind CSS
+Backend       → Python, FastAPI, REST APIs
+AI/LLMs       → LangChain, LangGraph, RAG, AI Agents
+DevOps        → Docker, GitHub Actions, AWS
+Learning      → System Design & Distributed Systems
+```
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Frontend
 
 <div align="center">
-<table>
-  <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=kanai2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanai2003&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></td>
-  </tr>
-</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanai2003&theme=dark" /></p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanai2003&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
 
 ---
 
+## ⚙️ Backend & APIs
+
 <div align="center">
-  <a href="https://github.com/kanai2003?tab=followers">
-    <img src="https://img.shields.io/github/followers/kanai2003.svg?style=social&label=Follow" />
-  </a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI / LLM Engineering
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7A7ADB?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-9333EA?style=for-the-badge)
+
+</div>
+
+---
+
+## 🗄️ Database & Cloud
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+</div>
+
+---
+
+## ☁️ DevOps & Tools
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanai2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanai2003&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanai2003&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanai2003&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kanailalmanna2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kanailalmanna/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/KManna16">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Kanai2003/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I love building scalable web apps, AI systems,
+and experimenting with modern technologies.
+Currently obsessed with AI Agents & System Design 🚀
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me 🤝
+
 </div>
