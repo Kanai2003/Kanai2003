@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kanai2003.github.io"><img src="https://img.shields.io/badge/Portfolio-kanai2003.github.io-2443e0?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://kanai2003.github.io/kanailal-manna-resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-141820?style=flat-square" alt="Résumé" /></a>
+  <a href="https://kanai2003.github.io/kanailal-manna-resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-5f6879?style=flat-square" alt="Résumé" /></a>
   <a href="https://www.linkedin.com/in/kanailalmanna/"><img src="https://img.shields.io/badge/LinkedIn-kanailalmanna-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kanailalmanna2003@gmail.com"><img src="https://img.shields.io/badge/Email-kanailalmanna2003%40gmail.com-0f9a53?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -54,7 +54,7 @@ Also: cross-platform build fixes in [neutralino.js](https://github.com/neutralin
   <img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,nodejs,express,nextjs,react,tailwind,postgres,redis,mongodb,docker,githubactions,azure,aws,gcp,linux,git&perline=10" alt="Python, FastAPI, TypeScript, JavaScript, Node.js, Express, Next.js, React, Tailwind CSS, PostgreSQL, Redis, MongoDB, Docker, GitHub Actions, Azure, AWS, GCP, Linux, Git" />
 </p>
 
-**AI:** LangChain · LangGraph · AI agents · guardrails and memory · token tracking · OpenAI · Gemini
+**AI:** LangChain · LangGraph · AI agents · guardrails and memory · token tracking · OpenAI · Gemini<br />
 **Learning now:** RAG pipelines · LLM evaluation · microservices · Kubernetes
 
 ## Activity
