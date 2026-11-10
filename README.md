@@ -57,6 +57,13 @@ Also: cross-platform build fixes in [neutralino.js](https://github.com/neutralin
 **AI:** LangChain · LangGraph · AI agents · guardrails and memory · token tracking · OpenAI · Gemini<br />
 **Learning now:** RAG pipelines · LLM evaluation · microservices · Kubernetes
 
+## Trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanai2003/Kanai2003/output/trophies-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kanai2003/Kanai2003/output/trophies.svg" alt="GitHub trophies for Kanai2003" width="100%" />
+</picture>
+
 ## Activity
 
 <picture>
